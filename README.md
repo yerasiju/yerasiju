@@ -11,17 +11,4 @@ A software developer focusing on WEB development from Kazakhstan. I love explori
 - 📫 How to reach me: zholymbekerkebulan@gmail.com
   
 Connect with me:
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "www.linkedin.com/in/yerkebulan-zholymbek-65b831326"
-
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/USERNAM"
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](www.linkedin.com/in/yerkebulan-zholymbek-65b831326)
