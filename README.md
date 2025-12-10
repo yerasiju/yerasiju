@@ -13,5 +13,5 @@ A software developer focusing on WEB development from Kazakhstan. I love explori
 ## Contact Me
 Feel free to reach out to me via email or LinkedIn!
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:zholymbekerkebulan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:yerkebulan.zholymbek@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerkebulan-zholymbek-65b831326/)
