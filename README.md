@@ -8,7 +8,7 @@ A software developer focusing on WEB development from Kazakhstan. I love explori
 - 👯 I’m looking to collaborate on New projects, great bootcamps and new friends :)
 - 🤔 I’m looking for help with React and NodeJs
 - 💬 Ask me about FrontEnd development
-- 📫 How to reach me: zholymbekerkebulan@gmail.com
+- 📫 How to reach me: yerkebulan.zholymbek@gmail.com
   
 ## Contact Me
 Feel free to reach out to me via email or LinkedIn!
